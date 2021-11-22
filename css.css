@@ -1,0 +1,69 @@
+
+body {
+
+}
+
+#header {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.team-heading {
+    align-self: flex-end;
+}
+
+.heading {
+    
+}
+
+.section {
+
+}
+
+header .container {
+
+}
+
+.section .container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section p {
+    margin-top: 3px;
+}
+
+.container-images  {
+    max-width: 500px;
+    margin: 30px;
+}
+
+.alignn {
+
+}
+
+.images {
+
+}
+
+.images span {
+    float: right;
+    writing-mode: vertical-lr;
+}
+
+.footer {
+
+}
+
+.name {
+
+}
+
+img {
+    border-radius: 2%;
+}
+
+@media (max-width: 900px) {
+    
+}
